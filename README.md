@@ -1,8 +1,24 @@
-# React + Vite
+# **Apple iPhone 15 Pro Clone with GSAP and Three.js** 🔥  
+Create a visually stunning app that mirrors Apple's premium product design and functionality.  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Screenshot](screenshot.png)  
 
-Currently, two official plugins are available:
+## [Live Demo: 3D Apple iPhone 15 Website](https://mb-iphone-clone.netlify.app/)  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### **Inspiration**  
+This project draws inspiration from the incredible work of [JavaScript Mastery](https://www.youtube.com/@javascriptmastery).  
+
+---
+
+## **Features**  
+- **Custom Animations**  
+  - Scroll-triggered effects, staggered animations, and timeline control.  
+- **Interactive Video Slider**  
+  - Progress tracking with smooth transitions.  
+- **3D Model Integration**  
+  - Animated models featuring various configurations, lighting setups, and dynamic viewports.  
+
+---
+
+## **Fully Responsive Design**  
+Built to deliver seamless performance and aesthetics across all devices.  
